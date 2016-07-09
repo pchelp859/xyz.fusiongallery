@@ -2,7 +2,7 @@
 <widget id="xyz.fusiongallery.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>Fusion Gallery</name>
-    <description>A beautiful computer repair shop & art gallery!</description>
+    <description>We're glad you're here!</description>
     <author email="contact@fusiongallery.xyz" href="http://www.fusiongallery.xyz">AGOTH Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
